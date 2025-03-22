@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+checkpoint.txt
+best_checkpoint.txt
